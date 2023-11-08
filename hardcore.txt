@@ -1,0 +1,11 @@
+!
+! https://github.com/mradalbert/adblock-stay-focused
+
+||youtube.*^
+||twitter.com^
+||x.com^
+||aliexpress.*^
+||phoronix.com^
+||pepper.*^
+||facebook.*^
+||territorial.io
