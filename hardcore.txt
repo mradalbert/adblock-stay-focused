@@ -8,4 +8,5 @@
 ||phoronix.com^
 ||pepper.*^
 ||facebook.*^
+@@||star.facebook.*^
 ||territorial.io
