@@ -7,6 +7,5 @@
 ||aliexpress.*^
 ||phoronix.com^
 ||pepper.*^
-||facebook.*^
-@@||star.facebook.*^
+||www.facebook.*^
 ||territorial.io
