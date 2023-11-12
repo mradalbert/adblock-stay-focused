@@ -1,7 +1,7 @@
 !
 ! https://github.com/mradalbert/adblock-stay-focused
 
-||youtube.*^
+||www.youtube.*
 ||twitter.com^
 ||x.com^
 ||aliexpress.*^
